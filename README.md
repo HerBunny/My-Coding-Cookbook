@@ -1,7 +1,6 @@
-# Python Code Snippits
+# Welcome to My Coding Cookbook
 
-
-## Sub-title for code categories
+## Purpose
 
 ###### Heading for code example
 
