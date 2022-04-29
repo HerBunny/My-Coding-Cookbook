@@ -16,6 +16,7 @@ input("\n\nPress the enter key to exit.")
 
 ```
 
+---------
 
 ### Split lines of code across multiple lines
 
@@ -47,5 +48,8 @@ total = """Here is an example of a paragraph. The contents of this line,
            can be easily split across multiple lines."""         
 ```
 
+---------
 
+### Words that must never be used as **globals** or **constants**
+> and, as, assert, break, class, continue, day, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lamb, not, or, pass, print, raise, return, try, while, with, yield
 
