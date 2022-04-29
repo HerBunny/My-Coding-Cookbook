@@ -23,7 +23,7 @@ input("\n\nPress the enter key to exit.")
 ###### Example:
 
 ```
-print(f" This {var} and that {integer})
+print(f"This {var} and that {integer})
 
 ```
 
