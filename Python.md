@@ -1,18 +1,17 @@
 # My Coding Cookbook: Python
 
-## sub-title
+## Tips & Tricks
 
-###### test
+###### Keeping a console open, until user hits Enter
 
-Notes about the code can be added here, along **bold** & *italic* text.
+This is a handy little trick, to add two lines and then wait for the user to hit Enter before exiting.
 
-- points to make a note of.
-- can be added here.
+- using \n moves to a new line for every instance inserted into a string, in a line of code.
 
-While examples can be placed over here:
+
+Example:
+
 ```
-git status
-git add
-git commit
+input("\n\nPress the enter key to exit.")
+
 ```
-> Useful quotes
