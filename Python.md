@@ -18,6 +18,17 @@ input("\n\nPress the enter key to exit.")
 
 ---------
 
+### Print without using concatination
+
+###### Example:
+
+```
+print(f" This {var} and that {integer})
+
+```
+
+---------
+
 ### Split lines of code across multiple lines
 
 The first option is to place the formula in parenthesis or braces, and then move the variables onto subsequent lines.
