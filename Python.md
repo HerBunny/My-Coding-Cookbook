@@ -15,3 +15,33 @@ Example:
 input("\n\nPress the enter key to exit.")
 
 ```
+
+###### Split lines of code across multiple lines
+
+The first option is to place the formula in parenthesis or braces, and then move the variables onto subsequent lines.
+
+Example with perenthesis:
+```
+total = (item_one 
+         + item_two 
+         + item_three
+         )
+```
+
+The next option is to make use of \ without parenthesis.
+
+Example using \:
+```
+total = item_one \+ item_two \+ item_three         
+```
+
+Additionally, by using three quotation marks, whole paragraphs may be split across multiple lines.
+
+Example using three quotation marks:
+```
+total = """Here is an example of a paragraph. The contents of this line, 
+           can be easily split across multiple lines."""         
+```
+
+
+
